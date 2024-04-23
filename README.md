@@ -13,6 +13,10 @@ starter code 框架提供了游戏服务器 servt ，游戏AI lookt，你需要�
 
 注意到游戏思考时间规则为：初始每人 30 秒，之后每一步增加 2 秒，时间是累积使用的。当某人时间用完而游戏还未结束时，timeout 的人被判失败。一个提高算法性能的 trick 是：为游戏划分阶段，然后为不同阶段分配不同的合理时间而不是傻傻地均匀分配。
 
+![1](https://github.com/CSPRJSV/COMP3411-9814-A3-Nine-Board-Tic-Tac-Toe/blob/main/1.png)
+![2](https://github.com/CSPRJSV/COMP3411-9814-A3-Nine-Board-Tic-Tac-Toe/blob/main/2.png)
+![3](https://github.com/CSPRJSV/COMP3411-9814-A3-Nine-Board-Tic-Tac-Toe/blob/main/3.png)
+
 ================================================
 
 欢迎有需要辅导的同学dd～
